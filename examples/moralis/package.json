@@ -33,7 +33,7 @@
     "@types/jest": "^27.4.1",
     "@types/node": "^16.11.26",
     "@types/react": "^17.0.44",
-    "@types/react-dom": "^17.0.15",
+    "@types/react-dom": "^17.0.20",
     "@uauth/js": "link:../packages/js",
     "@uauth/moralis": "link:../packages/moralis",
     "react": "^17.0.0",
