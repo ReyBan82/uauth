@@ -24,7 +24,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@uauth/common": "workspace:*",
+    "@uauth/common": "0.1.0",
     "@unstoppabledomains/resolution": "^8.0",
     "global": "^4.4.0",
     "jose": "^4.5.0"
