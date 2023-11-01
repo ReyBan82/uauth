@@ -16,10 +16,10 @@
     "export-version": "node -p \"'export const VERSION = ' + JSON.stringify(require('./package.json').version) + ';'\" > ./src/version.ts"
   },
   "dependencies": {
-    "@uauth/js": "workspace:*",
+    "@uauth/js": "0.2.0",
     "@web3-react/core": "8.0.35-beta.0",
-    "@web3-react/eip1193": "8.0.26-beta.0",
-    "@web3-react/metamask": "8.0.28-beta.0",
+    "@web3-react/eip1193": "8.2.0",
+    "@web3-react/metamask": "8.2.0",
     "@web3-react/network": "8.0.27-beta.0",
     "@web3-react/types": "8.0.20-beta.0"
   },
